@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
@@ -145,7 +146,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
     }
 
     /**
-     *
+     * Actions for the "SKIP" and "ACTION" Button
      * @param view
      */
     @Override
