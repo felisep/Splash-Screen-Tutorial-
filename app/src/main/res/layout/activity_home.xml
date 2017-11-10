@@ -30,7 +30,7 @@
 
    <TextView
        android:text="FML"
-       android:textSize="22sp"
+       android:textSize="24sp"
        android:textStyle="bold"
        android:textColor="#4a4a4a"
        android:layout_height="wrap_content"

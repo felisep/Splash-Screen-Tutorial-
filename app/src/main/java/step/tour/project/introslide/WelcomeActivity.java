@@ -28,7 +28,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
      * Fields
      */
     private ViewPager mPager;
-    private int[] layouts = {R.layout.first_slide,R.layout.second_slide,R.layout.third_slide,R.layout.fourth_slide};
+    private int[] layouts = {R.layout.first_slide,R.layout.second_slide,R.layout.third_slide,R.layout.fourth_slide, R.layout.fifth_slide};
     private MpagerAdapter mpagerAdapter;
 
     private LinearLayout Dots_Layouts;

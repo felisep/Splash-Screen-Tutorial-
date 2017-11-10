@@ -1,20 +1,20 @@
 <resources>
-    <string name="app_name">IntroSlide</string>
+    <string name="app_name">Wastelad</string>
 
-    <!--  Slide 1 Title and Description  -->
-    <string name="slide_1_title">Welcome</string>
+    <!--  Slide 1 text and Description  -->
+    <string name="slide_1_text">Before you start of by helping the world, you need a quick introduction on how you can contribute by making the world a better place.</string>
     <string name="slide_1_desc">Explore the wonders of garbage</string>
 
-    <!--  Slide 1 Title and Description  -->
-    <string name="slide_2_title">Slide 2</string>
+    <!--  Slide 2 text and Description  -->
+    <string name="slide_2_text">As you can see the world has been doomed by the evil Dr. Humanity. Your mission is to collect this waste and earn karma so that the world will become a better place to live in for the ladders.</string>
     <string name="slide_2_desc">Explore the wonders of garbage</string>
 
-    <!--  Slide 1 Title and Description  -->
-    <string name="slide_3_title">Slide 3</string>
+    <!--  Slide 3 text and Description  -->
+    <string name="slide_3_text">For starters you have to walk to earn karma, this is how you earn your value to buy stuff. The application will count your steps as long as it’s running in the background. </string>
     <string name="slide_3_desc">Explore the wonders of garbage</string>
 
-    <!--  Slide 1 Title and Description  -->
-    <string name="slide_4_title">Slide 4</string>
+    <!--  Slide 4 text and Description  -->
+    <string name="slide_4_text">Slide 4</string>
     <string name="slide_4_desc">Explore the wonders of garbage</string>
 
     <string name="my_preference">"com.abc.com.MyPref"</string>

@@ -11,7 +11,7 @@ import android.widget.ImageView;
 
 public class HomeActivity extends AppCompatActivity {
 
-    private static int SPLASH_TIME_OUT = 8000;
+    private static int SPLASH_TIME_OUT = 4000;
     ImageView imageView;
     AnimationDrawable animation;
     CheckBox checkBox;
