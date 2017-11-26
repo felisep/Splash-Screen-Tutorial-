@@ -5,29 +5,36 @@
     <string name="slide_1_text">Hello WasteLad!</string>
     <string name="slide_1_desc">Pick up garbage</string>
 
-    <!--  Slide 2 text and Description  -->
+    <!--  Slide 1 text and Description  -->
     <string name="slide_2_text">Before you can save the world, you need a quick introduction...
 </string>
     <string name="slide_2_desc">Pick up garbage</string>
 
     <!--  Slide 2 text and Description  -->
-    <string name="slide_3_text">...as you can see the world has been doomed by the evil Dr. Toxic who is trying to pollute the world with waste. Your mission is to collect the waste and earn karma so that the world will become safe and clean for all humanity!</string>
+    <string name="slide_3_text">...as you can see the world has been attacked by Dr. Toxic who is
+        trying to pollute the world with waste. Your mission is to collect the waste and earn karma
+        so that the world will become safe and clean for all humanity!</string>
     <string name="slide_3_desc">Pick up garbage</string>
 
     <!--  Slide 3 text and Description  -->
-    <string name="slide_4_text">You have to walk to earn karma. The game will count your steps as long as it’s running in the background. With karma you can buy better modules and unlock bases</string>
+    <string name="slide_4_text">You have to walk to earn karma. The game will count your steps as
+        long as it’s running in the background. With karma you can buy better modules and unlock
+        bases</string>
     <string name="slide_4_desc">Pick up garbage</string>
 
     <!--  Slide 4 text and Description  -->
-    <string name="slide_5_text">Slide 4</string>
+    <string name="slide_5_text">Modules represent different kind of waste you collect. Use your
+        karma points to unlock them</string>
     <string name="slide_5_desc">Pick up garbage</string>
 
     <!--  Slide 5 text and Description  -->
-    <string name="slide_6_text">Slide 4</string>
+    <string name="slide_6_text">There are different bases around the world that can help you remove
+        waste. Once a base is unlocked, it will earn karma for you. To collect it you will have to
+        visit the base</string>
     <string name="slide_6_desc">Pick up garbage</string>
 
     <!--  Slide 6 text and Description  -->
-    <string name="slide_7_text">Come and get me you clean peace of shit *MOHAHAHHA*</string>
+    <string name="slide_7_text">“You can never stop my plans of the new world filled with waste hahaha”</string>
     <string name="slide_7_desc">Pick up garbage</string>
 
     <string name="my_preference">"com.abc.com.MyPref"</string>

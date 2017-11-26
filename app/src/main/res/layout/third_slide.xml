@@ -12,23 +12,20 @@
     <TextView
         android:id="@+id/editText"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="30sp"
+        android:layout_height="221sp"
+        android:layout_marginHorizontal="30sp"
+        android:layout_marginTop="90sp"
         android:layout_weight="0.04"
         android:text="@string/slide_4_text"
         android:textAlignment="center"
-        android:textSize="27sp"
-        android:textColor="#000000"
-        />
+        android:textColor="#556270"
+        android:textSize="25sp" />
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="match_parent"
-        android:layout_height="250sp"
-        android:layout_weight="0.02"
-        android:cropToPadding="true"
-        app:srcCompat="@drawable/slide1"
-        android:layout_marginBottom="60sp"
-        />
+        android:layout_width="wrap_content"
+        android:layout_height="240sp"
+        android:layout_marginBottom="50sp"
+        app:srcCompat="@drawable/slide3" />
 
 </LinearLayout>

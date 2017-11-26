@@ -14,20 +14,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="30sp"
-        android:layout_marginTop="25sp"
-        android:layout_weight="0.04"
+        android:layout_marginTop="90sp"
         android:text="@string/slide_7_text"
         android:textAlignment="center"
         android:textSize="25sp"
-        android:textColor="#000000"
+        android:textColor="#556270"
         />
 
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="match_parent"
         android:layout_height="390sp"
-        android:layout_marginBottom="-20sp"
-        android:layout_marginTop="-110sp"
+        android:layout_marginBottom="40sp"
         android:cropToPadding="true"
         app:srcCompat="@drawable/slide6" />
 
