@@ -25,10 +25,9 @@
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginBottom="0sp"
-            android:layout_marginTop="500sp"
+            android:layout_marginTop="550sp"
             android:gravity="center"
-            android:orientation="horizontal"
-            />
+            android:orientation="horizontal" />
 
         <Button
             android:layout_width="wrap_content"

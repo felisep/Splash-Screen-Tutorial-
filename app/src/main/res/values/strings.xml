@@ -2,20 +2,33 @@
     <string name="app_name">Wastelad</string>
 
     <!--  Slide 1 text and Description  -->
-    <string name="slide_1_text">Before you start of by helping the world, you need a quick introduction on how you can contribute by making the world a better place.</string>
-    <string name="slide_1_desc">Explore the wonders of garbage</string>
+    <string name="slide_1_text">Hello WasteLad!</string>
+    <string name="slide_1_desc">Pick up garbage</string>
 
     <!--  Slide 2 text and Description  -->
-    <string name="slide_2_text">As you can see the world has been doomed by the evil Dr. Humanity. Your mission is to collect this waste and earn karma so that the world will become a better place to live in for the ladders.</string>
-    <string name="slide_2_desc">Explore the wonders of garbage</string>
+    <string name="slide_2_text">Before you can save the world, you need a quick introduction...
+</string>
+    <string name="slide_2_desc">Pick up garbage</string>
+
+    <!--  Slide 2 text and Description  -->
+    <string name="slide_3_text">...as you can see the world has been doomed by the evil Dr. Toxic who is trying to pollute the world with waste. Your mission is to collect the waste and earn karma so that the world will become safe and clean for all humanity!</string>
+    <string name="slide_3_desc">Pick up garbage</string>
 
     <!--  Slide 3 text and Description  -->
-    <string name="slide_3_text">For starters you have to walk to earn karma, this is how you earn your value to buy stuff. The application will count your steps as long as it’s running in the background. </string>
-    <string name="slide_3_desc">Explore the wonders of garbage</string>
+    <string name="slide_4_text">You have to walk to earn karma. The game will count your steps as long as it’s running in the background. With karma you can buy better modules and unlock bases</string>
+    <string name="slide_4_desc">Pick up garbage</string>
 
     <!--  Slide 4 text and Description  -->
-    <string name="slide_4_text">Slide 4</string>
-    <string name="slide_4_desc">Explore the wonders of garbage</string>
+    <string name="slide_5_text">Slide 4</string>
+    <string name="slide_5_desc">Pick up garbage</string>
+
+    <!--  Slide 5 text and Description  -->
+    <string name="slide_6_text">Slide 4</string>
+    <string name="slide_6_desc">Pick up garbage</string>
+
+    <!--  Slide 6 text and Description  -->
+    <string name="slide_7_text">Come and get me you clean peace of shit *MOHAHAHHA*</string>
+    <string name="slide_7_desc">Pick up garbage</string>
 
     <string name="my_preference">"com.abc.com.MyPref"</string>
     <string name="my_preference_key">"com.abc.com.MyPrefKey"</string>

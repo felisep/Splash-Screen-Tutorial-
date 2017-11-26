@@ -4,10 +4,12 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#ffffff</color>
 
-    <color name="colorSlide_1">#F44336</color>
-    <color name="colorSlide_2">#673AB7</color>
-    <color name="colorSlide_3">#2196F3</color>
-    <color name="colorSlide_4">#009688</color>
+    <color name="colorSlide_1">#FF6D6B</color>
+    <color name="colorSlide_2">#C7F464</color>
+    <color name="colorSlide_3">#4ECDC4</color>
+    <color name="colorSlide_4">#FF6D6B</color>
+    <color name="colorSlide_5">#C7F464</color>
+    <color name="colorSlide_6">#4ECDC4</color>
 
     <color name="active_dots">#fffafa</color>
     <color name="inactive_dots">#83878b</color>

@@ -28,7 +28,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
      * Fields
      */
     private ViewPager mPager;
-    private int[] layouts = {R.layout.first_slide,R.layout.second_slide,R.layout.third_slide,R.layout.fourth_slide, R.layout.fifth_slide};
+    private int[] layouts = {R.layout.first_slide,R.layout.second_slide,R.layout.third_slide,R.layout.fourth_slide, R.layout.fifth_slide, R.layout.sixth_slide};
     private MpagerAdapter mpagerAdapter;
 
     private LinearLayout Dots_Layouts;
@@ -138,7 +138,7 @@ public class WelcomeActivity extends AppCompatActivity implements View.OnClickLi
                         }
 
                         LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,ViewGroup.LayoutParams.WRAP_CONTENT);
-                        params.setMargins(4,0,4,0);
+                        params.setMargins(4,0,0,4);
 
                         Dots_Layouts.addView(dots[i], params);
                     }

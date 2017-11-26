@@ -4,31 +4,31 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorSlide_3"
+    android:background="@color/colorSlide_6"
     android:orientation="vertical"
-    >
+    android:weightSum="1">
 
 
     <TextView
         android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="30sp"
+        android:layout_marginHorizontal="30sp"
+        android:layout_marginTop="25sp"
         android:layout_weight="0.04"
-        android:text="@string/slide_4_text"
+        android:text="@string/slide_7_text"
         android:textAlignment="center"
-        android:textSize="27sp"
+        android:textSize="25sp"
         android:textColor="#000000"
         />
 
     <ImageView
         android:id="@+id/imageView4"
         android:layout_width="match_parent"
-        android:layout_height="250sp"
-        android:layout_weight="0.02"
+        android:layout_height="390sp"
+        android:layout_marginBottom="-20sp"
+        android:layout_marginTop="-110sp"
         android:cropToPadding="true"
-        app:srcCompat="@drawable/slide1"
-        android:layout_marginBottom="60sp"
-        />
+        app:srcCompat="@drawable/slide6" />
 
 </LinearLayout>
